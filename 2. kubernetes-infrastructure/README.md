@@ -3,7 +3,7 @@
 This repository contains the design and implementation files for a Kubernetes cluster to host web services providing public APIs while securely connecting to internal systems.
 
 ## Repository Structure
-- `diagrams/`: Contains architectural diagrams.
+- `kubernetes_infra_diagram.jpg`: Contains architectural diagrams.
 - `manifests/`: Kubernetes YAML manifests for deployment, service, and ingress.
 - `scripts/`: Shell scripts for setting up the cluster and deploying services.
 - `docs/`: Detailed architecture documentation.
