@@ -3,7 +3,7 @@
 ## Repository Overview
 This repository contains a .NET Core Web API application and automation scripts for deployment using Docker. The repository includes:
 
-- `super-service/`: Contains the application code and the `Dockerfile` and application code.
+- `super-service/`: Contains the application code and the `Dockerfile`.
 - `Deploy.ps1`: A PowerShell script for automating the deployment process, including testing, building, and running the application.
 
 ## Prerequisites
